@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.Monster vs monster vs anything 4.CSharp", "UnityVS.Monster vs monster vs anything 4.CSharp.csproj", "{BC0D1E07-98C2-BEF4-1A14-FE08AEFE6EAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.Monster vs monster vs anything 4.CSharp.Editor", "UnityVS.Monster vs monster vs anything 4.CSharp.Editor.csproj", "{C3EC7B29-FED8-0BB8-80B5-60ED97E00C79}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC0D1E07-98C2-BEF4-1A14-FE08AEFE6EAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC0D1E07-98C2-BEF4-1A14-FE08AEFE6EAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC0D1E07-98C2-BEF4-1A14-FE08AEFE6EAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC0D1E07-98C2-BEF4-1A14-FE08AEFE6EAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3EC7B29-FED8-0BB8-80B5-60ED97E00C79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3EC7B29-FED8-0BB8-80B5-60ED97E00C79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3EC7B29-FED8-0BB8-80B5-60ED97E00C79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3EC7B29-FED8-0BB8-80B5-60ED97E00C79}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
